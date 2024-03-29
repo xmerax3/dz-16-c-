@@ -59,7 +59,7 @@ int main()
      }
 
      const int spamWordsCount = 2;
-     const char* spamWords[spamWordsCount] = { "viagra", "xxx" };
+     const char* spamWords[spamWordsCount] = { "TCK", "xxx","bla bla bla };
 
      bool isSpam = false;
      for (int i = 0; i < spamWordsCount; i++) {
